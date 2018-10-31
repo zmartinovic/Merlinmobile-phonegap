@@ -6,14 +6,14 @@
         versionCode = "35200"
         android-versionCode="35200"
         version   = "3.5.2">
-    <name>Moodle</name>
+    <name>Merlin Mobile</name>
 
     <description>
-        Moodle official app
+        Merlin Mobile službena aplikacija
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="https://www.srce.hr/ceu" email="moodle@srce.hr">
+        Sveučilišni računski centar Srce / Moodle Mobile team
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
