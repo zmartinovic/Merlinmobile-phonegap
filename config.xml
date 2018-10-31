@@ -141,7 +141,7 @@
     <gap:plugin name="cordova-clipboard" source="npm" />
     <gap:plugin name="nl.kingsquare.cordova.background-audio" source="npm" />
     <gap:plugin name="phonegap-plugin-push" source="git" version="https://github.com/moodlemobile/phonegap-plugin-push.git#moodle">
-        <param name="SENDER_ID" value="694767596569" />
+        <param name="SENDER_ID" value="828688371561" />
     </gap:plugin>
     <gap:plugin name="cordova-plugin-customurlscheme" source="npm" >
         <param name="URL_SCHEME" value="moodlemobile" />
