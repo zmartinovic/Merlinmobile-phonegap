@@ -5,7 +5,7 @@
         id        = "com.moodle.merlinmobile"
         versionCode = "37002"
         android-versionCode="37002"
-        version   = "3.7.0">
+        version   = "3.7.2">
     <name>MerlinMobile</name>
 
     <description>
@@ -17,7 +17,7 @@
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
-        <string>3.7.0</string>
+        <string>3.7.2</string>
     </edit-config>
 
     <gap:platform name="ios" />
