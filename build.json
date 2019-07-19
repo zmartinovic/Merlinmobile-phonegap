@@ -1,0 +1,14 @@
+{
+    "debug": {
+      "developmentTeam": "L72BUZMZMG",
+      "codeSignIdentity": "iPhone Developer: Zvonko Martinoviæ (3HJVS5RG94)",
+      "provisioningProfile": "MerlinMobile",
+      "packageType": "development"
+    },
+    "release": {
+      "developmentTeam": "L72BUZMZMG",
+      "codeSignIdentity": "iPhone Developer: Zvonko Martinoviæ (3HJVS5RG94)",
+      "provisioningProfile": "MerlinMobile",
+      "packageType": "app-store"
+    }
+}
