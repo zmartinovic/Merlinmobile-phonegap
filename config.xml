@@ -2,10 +2,10 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.merlinmobile"
-        versionCode = "37002"
-        android-versionCode="37002"
-        version   = "3.7.2">
+        id        = "L72BUZMZMG.com.moodle.merlinmobile"
+        versionCode = "37003"
+        android-versionCode="37003"
+        version   = "3.7.3">
     <name>MerlinMobile</name>
 
     <description>
@@ -17,7 +17,7 @@
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
-        <string>3.7.2</string>
+        <string>3.7.3</string>
     </edit-config>
 
     <gap:platform name="ios" />
