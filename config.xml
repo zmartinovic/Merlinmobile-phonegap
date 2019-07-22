@@ -3,9 +3,9 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.moodle.merlinmobile"
-        versionCode = "37004"
-        android-versionCode="37004"
-        version   = "3.7.4">
+        versionCode = "37005"
+        android-versionCode="37005"
+        version   = "3.7.5">
     <name>MerlinMobile</name>
 
     <description>
@@ -17,7 +17,7 @@
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
-        <string>3.7.4</string>
+        <string>3.7.5</string>
     </edit-config>
 
     <gap:platform name="ios" />
