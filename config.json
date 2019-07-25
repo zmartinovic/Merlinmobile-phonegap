@@ -69,7 +69,7 @@
         }
     },
     "customurlscheme": "moodlemobile",
-    "siteurl": "https://moodle-dev.p.srce.hr/moodle37/",
+    "siteurl": "https://moodle.srce.hr/2018-2019/",
     "sitename": "Merlin 2018/2019",
     "multisitesdisplay": "select",
     "skipssoconfirmation": false,
