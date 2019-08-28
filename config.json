@@ -2,8 +2,8 @@
     "app_id": "com.moodle.merlinmobile",
     "appname": "MerlinMobile",
     "desktopappname": "MerlinMobile",
-    "versioncode": 37009,
-    "versionname": "3.7.9",
+    "versioncode": 37010,
+    "versionname": "3.7.10",
     "cache_update_frequency_usually": 420000,
     "cache_update_frequency_often": 1200000,
     "cache_update_frequency_sometimes": 3600000,
@@ -69,8 +69,15 @@
         }
     },
     "customurlscheme": "moodlemobile",
-    "siteurl": "https://moodle.srce.hr/2019-2020/",
-    "sitename": "Merlin 2019/2020",
+    "siteurl": {
+		"Merlin 2019/2020": {
+			"url": "https://moodle.srce.hr/2019-2020/"
+		},
+		"Merlin 2018/2019": {
+			"url": "https://moodle.srce.hr/2018-2019/"
+		}
+	},
+    "sitename": "Sustav za e-učenje Merlin",
     "multisitesdisplay": "select",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": true,

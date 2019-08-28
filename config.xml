@@ -3,9 +3,9 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.moodle.merlinmobile"
-        versionCode = "37009"
-        android-versionCode="37009"
-        version   = "3.7.9">
+        versionCode = "37010"
+        android-versionCode="37010"
+        version   = "3.7.10">
     <name>MerlinMobile</name>
 
     <description>
