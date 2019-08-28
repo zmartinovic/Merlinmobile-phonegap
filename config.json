@@ -70,10 +70,12 @@
     },
     "customurlscheme": "moodlemobile",
     "siteurl": {
-		"Merlin 2019/2020": {
+		"0": {
+			"name": "Merlin 2019/2020",
 			"url": "https://moodle.srce.hr/2019-2020/"
 		},
-		"Merlin 2018/2019": {
+		"1": {
+			"name": "Merlin 2019/2020",
 			"url": "https://moodle.srce.hr/2018-2019/"
 		}
 	},
