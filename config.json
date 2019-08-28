@@ -69,18 +69,18 @@
         }
     },
     "customurlscheme": "moodlemobile",
-    "siteurl": {
-		"0": {
+    "siteurl": [
+		{
 			"name": "Merlin 2019/2020",
 			"url": "https://moodle.srce.hr/2019-2020/"
 		},
-		"1": {
+		{
 			"name": "Merlin 2019/2020",
 			"url": "https://moodle.srce.hr/2018-2019/"
 		}
-	},
+	],
     "sitename": "Sustav za e-učenje Merlin",
-    "multisitesdisplay": "select",
+    "multisitesdisplay": "list",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": true,
     "privacypolicy": "https:\/\/www.srce.unizg.hr\/politika-privatnosti",
