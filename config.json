@@ -72,14 +72,16 @@
     "siteurl": [
 		{
 			"name": "Merlin 2019/2020",
+			"sitename": "Sustav za e-učenje Merlin 2019/2020",
 			"url": "https://moodle.srce.hr/2019-2020/"
 		},
 		{
 			"name": "Merlin 2019/2020",
+			"sitename": "Sustav za e-učenje Merlin 2019/2020",
 			"url": "https://moodle.srce.hr/2018-2019/"
 		}
 	],
-    "sitename": "Sustav za e-učenje Merlin",
+    "sitename": "",
     "multisitesdisplay": "list",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": true,
