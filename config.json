@@ -2,8 +2,8 @@
     "app_id": "com.moodle.merlinmobile",
     "appname": "MerlinMobile",
     "desktopappname": "MerlinMobile",
-    "versioncode": 37011,
-    "versionname": "3.7.11",
+    "versioncode": 37012,
+    "versionname": "3.7.12",
     "cache_update_frequency_usually": 420000,
     "cache_update_frequency_often": 1200000,
     "cache_update_frequency_sometimes": 3600000,
@@ -70,6 +70,10 @@
     },
     "customurlscheme": "moodlemobile",
     "siteurl": [
+		{
+			"name": "Merlin 2020/2021",
+			"url": "https://moodle.srce.hr/2020-2021/"
+		},
 		{
 			"name": "Merlin 2019/2020",
 			"url": "https://moodle.srce.hr/2019-2020/"
