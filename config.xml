@@ -3,21 +3,21 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.moodle.merlinmobile"
-        versionCode = "37013"
-        android-versionCode="37013"
-        version   = "3.7.13">
+        versionCode = "37014"
+        android-versionCode="37014"
+        version   = "3.7.14">
     <name>MerlinMobile</name>
 
     <description>
         Merlin Mobile službena aplikacija
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Sveučilišni računski centar Srce / Moodle Mobile team
+    <author href="https://www.srce.hr/ceu" email="moodle@srce.hr">
+        Sveučilišni računski centar Srce, Centar za e-učenje
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
-        <string>3.7.13</string>
+        <string>3.7.14</string>
     </edit-config>
 
     <gap:platform name="ios" />

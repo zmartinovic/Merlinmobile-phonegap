@@ -1,0 +1,7 @@
+{
+  "name": "merlinmobile",
+  "type": "custom",
+  "integrations": {
+    "cordova": {}
+  }
+}
